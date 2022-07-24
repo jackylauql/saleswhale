@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saleswhale/static/css/main.e7b4436c.css",
+    "main.js": "/saleswhale/static/js/main.a95adee2.js",
+    "static/js/787.e7af5a3b.chunk.js": "/saleswhale/static/js/787.e7af5a3b.chunk.js",
+    "index.html": "/saleswhale/index.html",
+    "main.e7b4436c.css.map": "/saleswhale/static/css/main.e7b4436c.css.map",
+    "main.a95adee2.js.map": "/saleswhale/static/js/main.a95adee2.js.map",
+    "787.e7af5a3b.chunk.js.map": "/saleswhale/static/js/787.e7af5a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b4436c.css",
+    "static/js/main.a95adee2.js"
+  ]
+}
